@@ -1,0 +1,16 @@
+.navbar-expand-lg .navbar-nav {
+font-size: 15px;
+
+}
+.navbar-expand-lg .navbar-nav :hover{
+color: rgb(238, 59, 59);
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: blue;
+}
+.card.text-center.pt-3.mt-n5:hover{
+    background-color: rgb(237, 79, 79);
+}
+.card.text-center.pt-3:hover{
+    background-color: rgb(244, 93, 93);
+}
